@@ -2,7 +2,7 @@
 
 A list (in no particular order) of tech / tooling to investigate / experiment with
 
-- [Valkey](https://valkey.io/topics/installation/)
+- [Valkey](https://valkey.io/topics/installation/) - an open source (BSD) high-performance key/value datastore
 - [Refined GitHub](https://github.com/refined-github/refined-github)
 - [Bruno](https://www.usebruno.com/) - a Git-integrated, fully offline, and open-source API client
 - [Clerk](https://clerk.com/) - for authentication management
